@@ -8,7 +8,6 @@ import { RenderPass } from 'three/examples/jsm/postprocessing/RenderPass.js';
 import { ShaderPass } from 'three/examples/jsm/postprocessing/ShaderPass.js';
 import { RGBShiftShader } from 'three/examples/jsm/shaders/RGBShiftShader.js';
 import gsap  from "gsap";
-import Shery from "sheryjs";
 
 import LocomotiveScroll from 'locomotive-scroll';
 
